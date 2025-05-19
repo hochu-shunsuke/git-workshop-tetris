@@ -1,3 +1,9 @@
+commit 5809e1dadc336128e49f9ebf861af4df5253a688
+Author: Shunsuke Hochu <124444636+hochu-shunsuke@users.noreply.github.com>
+Date:   Mon May 19 14:44:29 2025 +0900
+
+    change interval to 1000
+
 commit 8a91fa21b3fc38909d5be2c0e26e9573456a2163
 Merge: 53aeca3 33e09e6
 Author: Shunsuke Hochu <124444636+hochu-shunsuke@users.noreply.github.com>
