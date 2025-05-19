@@ -1,0 +1,30 @@
+commit 8a91fa21b3fc38909d5be2c0e26e9573456a2163
+Merge: 53aeca3 33e09e6
+Author: Shunsuke Hochu <124444636+hochu-shunsuke@users.noreply.github.com>
+Date:   Mon May 19 14:41:27 2025 +0900
+
+    Merge branch 'main' of https://github.com/hochu-shunsuke/git-workshop-tetris
+
+commit 53aeca3380b464327a762e2908a91719c1d4d761
+Author: Shunsuke Hochu <124444636+hochu-shunsuke@users.noreply.github.com>
+Date:   Mon May 19 14:40:25 2025 +0900
+
+    change color
+
+commit 33e09e6d29e3656b869b609b2e77086d04c96c75
+Author: hochu-shunsuke <124444636+hochu-shunsuke@users.noreply.github.com>
+Date:   Mon May 19 14:40:14 2025 +0900
+
+    Update tetris.js
+
+commit 4155c16bd51ba3cff446c7ce3e2b469c7fed2a86
+Author: Shunsuke Hochu <124444636+hochu-shunsuke@users.noreply.github.com>
+Date:   Mon May 19 14:39:22 2025 +0900
+
+    change color
+
+commit 7981403050efda3ec7b43662f8bb561e0e61405b
+Author: Shunsuke Hochu <124444636+hochu-shunsuke@users.noreply.github.com>
+Date:   Mon May 19 14:38:42 2025 +0900
+
+    first commit
